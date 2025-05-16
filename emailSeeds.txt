@@ -1,0 +1,9 @@
+Sender/Recipient: Queries focusing on who sent or received the email.
+Time/Date: Queries related to when the email was sent, received, or a specific time frame.
+Keywords/Subject: Queries based on words or phrases within the email body or subject line.
+Attachments: Queries concerning the presence, type, or size of attachments.
+Read/Unread Status: Queries filtering emails based on their read or unread status.
+Labels/Folders/Tabs: Queries related to how emails are organized within the mail service.
+Importance/Flags/Stars: Queries based on user-assigned importance indicators.
+Email Properties: Queries related to other inherent characteristics of the email.
+Actions: Queries that imply an action to be taken on the emails.

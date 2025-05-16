@@ -1,0 +1,20 @@
+Meeting invites
+Appointments
+Reminders
+BirthdaysAnniversaries
+To-dos / Tasks
+All-day events
+Recurring events
+Webinars / Online events
+Holidays (public/federal/company-specific)
+Events with location info (e.g., conferences, offsites)
+Deadlines / Due dates
+Blocked time / Focus time
+Team events (e.g., standups, retrospectives)
+Personal events (e.g., gym, dinner, travel)
+Calendar invites from external people
+Out of Office (OOO) entries
+Time zone changes / cross-timezone meetings
+Tentative / Pending events
+Follow-ups / Post-meeting reminders
+RSVP status-related events (Accepted / Declined / Tentative)
