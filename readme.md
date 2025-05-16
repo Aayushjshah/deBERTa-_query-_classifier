@@ -28,7 +28,7 @@ This project focuses on classifying search queries as either related to "email" 
     - Runnable Kaggle notebooks
     - GitHub project link
 - **`model/`**: This folder contains the trained model's weights and configuration files.
-
+- **`calendar_5000_queries_generated_from events_dataset`** - 5000+ Queries generated via events_dataset
 ## Important Resources
 
 - **Kaggle Testing Notebook Link:** [https://www.kaggle.com/code/shah2001aayush/testclassifier/](https://www.kaggle.com/code/shah2001aayush/testclassifier/)
