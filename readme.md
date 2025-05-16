@@ -32,7 +32,7 @@ This project focuses on classifying search queries as either related to "email" 
 ## Important Resources
 
 - **Kaggle Testing Notebook Link:** [https://www.kaggle.com/code/shah2001aayush/testclassifier/](https://www.kaggle.com/code/shah2001aayush/testclassifier/)
-- **GitHub Link:** [Insert GitHub Project Link Here]
+- **GitHub Link:** [[Insert GitHub Project Link Here](https://github.com/Aayushjshah/deBERTa-_query-_classifier)]
 - **Model hosted over Kaggle:** [https://www.kaggle.com/models/shah2001aayush/deberta_classification](https://www.kaggle.com/models/shah2001aayush/deberta_classification)
 - **Dataset hosted over Kaggle:** [https://www.kaggle.com/datasets/shah2001aayush/dataprocessed](https://www.kaggle.com/datasets/shah2001aayush/dataprocessed)
 
